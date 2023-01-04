@@ -1,0 +1,25 @@
+#ik{
+    background-image: url("s.png");
+    width: 970px;
+    height: 700px;
+    margin: auto;
+}
+#naglowek{
+    margin: auto;
+}
+h1{
+    text-align: center;
+    font-family: "Comic Sans MS";
+    text-shadow: blue;
+    color: green;
+}
+.sth{
+    float:left;
+    margin:2px;
+}
+#xd{
+    margin-left: 2.5%;
+    background-color: blue;
+    width: 925px;
+    height: 105px;
+}
